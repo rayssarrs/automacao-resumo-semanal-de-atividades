@@ -4,27 +4,26 @@ Repositório contendo notebooks e projetos para automação de resumos semanais 
 
 🩷 Habilidades Desenvolvidas:
 
-Coleta, tratamento e limpeza de dados 🧹
+Coleta, tratamento e limpeza de dados 
 
-Análise exploratória de dados (EDA) 📈
+Análise exploratória de dados (EDA) 
 
-Criação de dashboards e visualizações claras e objetivas 📊
+Criação de dashboards e visualizações claras e objetivas 
 
-Interpretação de métricas e indicadores de desempenho 📌
+Interpretação de métricas e indicadores de desempenho 
 
-Storytelling com dados para tomada de decisão 💡
+Storytelling com dados para tomada de decisão 
 
-Aplicação de raciocínio lógico e estatístico 🧠
+Aplicação de raciocínio lógico e estatístico 
 
 🩷 Tecnologias e Ferramentas Utilizadas:
 
-Linguagem: Python 🐍
+Linguagem: Python 
 
 Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn
 
-Ambiente: Google Colab ☁️
+Ambiente: Google Colab 
 
-Outros: Git e GitHub para versionamento 🗂️
 
 🩷 Objetivo do Projeto:
 Transformar dados brutos de atividades em insights relevantes sobre o desempenho de cada funcionário e da equipe como um todo, utilizando boas práticas de análise e visualização, com foco na clareza, confiabilidade e aplicabilidade no contexto empresarial.
