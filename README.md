@@ -12,15 +12,12 @@ Criação de dashboards e visualizações claras e objetivas
 
 Interpretação de métricas e indicadores de desempenho 
 
-Storytelling com dados para tomada de decisão 
-
-Aplicação de raciocínio lógico e estatístico 
 
 🩷 Tecnologias e Ferramentas Utilizadas:
 
 Linguagem: Python 
 
-Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn
+Bibliotecas: Pandas, NumPy
 
 Ambiente: Google Colab 
 
