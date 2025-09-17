@@ -1,6 +1,6 @@
 # 📊 Resumo Semanal de Atividades – Empresa Fictícia
 
-Repositório contendo notebooks e projetos para automação de resumos semanais de atividades, com foco em acompanhamento individual e geral dos funcionários 👩🏻‍💻
+Repositório contendo um projeto para automação de resumos semanais de atividades, com foco em acompanhamento individual e geral dos funcionários 👩🏻‍💻
 
 🩷 Habilidades Desenvolvidas:
 
